@@ -1,0 +1,94 @@
+body {
+  color: #1e1e1e;
+  font-family: Avenir;
+  background-color: #1e1e1e;
+}
+
+.section-header {
+  margin-top: 40px;
+  margin-left: 20px;
+  color: white;
+}
+
+.block-half img {
+  float: right;
+  margin-top: 50px;
+  margin-right: 80px;
+}
+
+.block-intro {
+  height: 350px;
+  color: gray;
+}
+
+.block-projects {
+  margin-top: 10px;
+}
+
+.block-projects img {
+  margin-top: 10px;
+}
+
+.block-projects h1 {
+  margin-top: 25px;
+}
+
+.project-info {
+  padding-left: 20px;
+  color: white;
+}
+
+.block-mobile {
+  background-color: #E6EAFF;
+  text-align: center;
+}
+
+.block-web {
+  background-color: #FFE5CD;
+  text-align: center;
+}
+
+.text-container {
+  padding-top: 40px;
+  padding-left: 40px;
+}
+
+.block-half {
+  height: 300px;
+  margin-bottom: 30px;
+}
+
+.block-education {
+  background-color: #CAECE1;
+}
+
+.block-experience {
+  background-color: #FFE5CD;
+  height: 450px;
+}
+
+.block-experience img {
+  margin-top: 120px;
+}
+
+.block-skills {
+  background-color: #FFFAD0;
+}
+
+.block-leadership {
+  background-color: #FFF4F4;
+  height: 450px;
+}
+
+.block-leadership img {
+  margin-top: 120px;
+}
+
+img.map, map area{
+    outline: none;
+}
+
+@font-face {
+  font-family: Avenir;
+  src: url(https://www.wfonts.com/download/data/2016/06/21/avenir/AEH.ttf);
+}
